@@ -1,2 +1,2 @@
-# notes
-个人笔记
+# Initial page
+
