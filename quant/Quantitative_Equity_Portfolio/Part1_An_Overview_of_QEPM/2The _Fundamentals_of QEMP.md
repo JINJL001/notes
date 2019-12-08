@@ -76,7 +76,7 @@
 
 > The information ratio adjusts $α$ for the portfolio's residual risk.
 
-####1. The ex-ante IC
+#### 1. The ex-ante IC
 
 > $IR = \frac{\alpha ^{B}}{\omega }$
 
